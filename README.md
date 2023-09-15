@@ -1,6 +1,4 @@
-**Project Title:** StudyNotion
-
-**Project Description:**
+**StudyNotion**
 
 **Overview:**
 StudyNotion is an innovative web application designed to enhance the productivity and organization of students, educators, and lifelong learners alike. Built using React.js and styled with Tailwind CSS, StudyNotion offers a seamless and visually appealing platform to manage tasks, notes, schedules, and resources efficiently.
